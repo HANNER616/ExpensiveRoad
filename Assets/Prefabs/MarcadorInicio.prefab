@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 736471093138299194}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MarcadorInicio
   m_TagString: MarcadorInicio
   m_Icon: {fileID: 0}
@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 5095358778630166692}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.29652715, y: -0.23012288, z: -0.36147955}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 2800079902852153743}
   - component: {fileID: 8074106378519479690}
   - component: {fileID: 8318711763829579102}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: marcador
   m_TagString: MarcadorInicio
   m_Icon: {fileID: 0}
@@ -61,7 +61,7 @@ Transform:
   m_GameObject: {fileID: 5897090464757145710}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.55, y: 1.07, z: 0.36147955}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.05, y: 0.05, z: 0.05}
   m_ConstrainProportionsScale: 1
   m_Children: []
