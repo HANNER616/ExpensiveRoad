@@ -26,6 +26,8 @@ public class gameLogic : MonoBehaviour
     private int currentDestinationIndex = 0;
     private GameObject currentDialog; 
 
+    
+
     private Vector3 homePositionGlobal;
     void Awake()
     {
